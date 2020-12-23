@@ -1,6 +1,6 @@
 name: $(Date:yyyyMMdd).$(Rev:r)
 variables:
-  DOCKER_IMAGE_BASENAME: "jamesits/ripe-atlas"
+  DOCKER_IMAGE_BASENAME: "tiberiumk/docker-ripe-atlas-arm64"
 
 trigger:
   batch: true
